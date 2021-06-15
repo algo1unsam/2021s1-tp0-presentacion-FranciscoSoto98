@@ -1,8 +1,9 @@
-# Presentación
+# TRABAJO PRÁCTICO FINAL
 
-## Estudiante: Francisco Soto Rottenbücher
+## BOMBERMAN
 
-Soy alumno de la Unsam y estoy probando.
+Alumnos:  
+          
 
 ![mi fotoo](bombeerrrr.jpg)
 
